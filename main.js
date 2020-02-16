@@ -12,3 +12,4 @@ function getNumberFunc(arr) {
 const getNumber = getFunc(getNumberFunc);
 
 console.log(getNumber([1, -5, 8999]));
+// 8999
